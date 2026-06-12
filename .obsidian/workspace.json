@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6a34ed7524f51929",
+        "id": "b8e7b51140d5def2",
         "type": "tabs",
         "children": [
           {
-            "id": "bde93e02c7ab80b5",
+            "id": "938b8a1ca82b5cd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index/DSA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DSA"
+              "title": "New tab"
             }
           }
         ]
@@ -88,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5086555480957,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "8a3f5a266763ae2c",
@@ -105,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main Notes/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Chapter 1"
             }
           },
           {
@@ -179,45 +165,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bde93e02c7ab80b5",
+  "active": "41171d37452a09d3",
   "lastOpenFiles": [
-    "Main Notes/Palindromic Substrings.md",
+    "Index/LLD.md",
     "Index/DSA.md",
-    "Main Notes/Longest Happy Prefix.md",
-    "Main Notes/Best Time to Buy and Sell Stock III.md",
-    "Main Notes/Best Time to Buy and Sell Stock II.md",
-    "Main Notes/Best Time to Buy and Sell Stock.md",
-    "Main Notes/Shortest Palindrome.md",
-    "Main Notes/Wildcard Matching.md",
-    "Main Notes/Edit Distance.md",
-    "Main Notes/Distinct Subsequences.md",
+    "Index/Books.md",
+    "Main Notes/Chapter 4 - Storage and Retrieval.md",
+    "Assets/Pasted image 20260611170226.png",
+    "Main Notes/Facade Pattern.md",
+    "Assets/Pasted image 20260610190621.png",
+    "Main Notes/Adapter Pattern.md",
+    "Assets/Pasted image 20260610184405.png",
+    "Main Notes/Command Pattern.md",
+    "Assets/Pasted image 20260610175825.png",
+    "Main Notes/Decorator Pattern.md",
+    "Assets/Pasted image 20260610172250.png",
+    "Assets/Pasted image 20260610170837.png",
+    "Assets/Pasted image 20260610164552.png",
+    "Assets/Pasted image 20260609163559.png",
+    "Main Notes/Observer Pattern.md",
+    "Assets/Pasted image 20260607172818.png",
+    "Assets/Pasted image 20260607163825.png",
+    "Main Notes/Singleton Pattern.md",
+    "Main Notes/Factory Pattern.md",
+    "Main Notes/Chapter 3 - Data Models and Query Languages.md",
+    "Main Notes/Strategy Pattern.md",
+    "Main Notes/SOLID.md",
+    "Main Notes/Chapter 2 - Defining Nonfunctional Requirements.md",
+    "Main Notes/UML Diagrams.md",
+    "Tags/LLD.md",
+    "Main Notes/Chapter 1 - Trade-Offs in Data Systems Architecture.md",
     "Main Notes/KMP Algorithm.md",
-    "Main Notes/Rabin Karp Algorithm.md",
-    "Main Notes/Z Algorithm.md",
-    "Main Notes/Max Consecutive Ones III.md",
-    "Main Notes/Shortest Common Supersequence.md",
-    "Main Notes/Delete Operation for Two Strings.md",
-    "Main Notes/Minimum Insertion Steps to Make a String Palindrome.md",
-    "Main Notes/Longest Palindromic Subsequence.md",
-    "Main Notes/Longest Common Substring.md",
-    "Main Notes/Print Longest Common Subsequence.md",
-    "Main Notes/Longest Common Subsequence.md",
-    "Assets/Pasted image 20260409175736.png",
-    "Main Notes/Rod Cutting Problem.md",
-    "Main Notes/Unbounded Knapsack.md",
-    "Main Notes/Coin Change II.md",
-    "Main Notes/Target Sum.md",
-    "Main Notes/Count and Say.md",
-    "Pasted image 20260313155754.png",
-    "Assets/Pasted image 20260312173238.png",
-    "Assets/Pasted image 20260128150709.png",
-    "Assets/Pasted image 20260128150645.png",
-    "Assets/mst.png",
+    "Tags/DDIA.md",
+    "Index/100 Days of ML (CampusX).md",
+    "Main Notes/Day 2 - AI vs ML vs DL.md",
+    "Main Notes/Day 4 - Batch Learning vs Online Learning.md",
+    "Main Notes/Day 5 - Instance-Based vs Model-Based Learning.md",
+    "Main Notes/Feature Engineering.md",
     "Assets/Unconfirmed 212543.crdownload",
-    "Assets/Pasted image 20260103162203.png",
-    "Assets/Screenshot From 2025-12-27 19-11-03.png",
-    "Assets/Pasted image 20251122153033.png",
-    "Pasted image 20251122153018.png",
     "Main Notes/Untitled.base",
     "Index",
     "Assets",

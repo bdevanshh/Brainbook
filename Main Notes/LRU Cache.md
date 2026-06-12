@@ -1,6 +1,6 @@
 15-08-2025  16:40
 
-Status: #Revision-03
+Status: #Revision-04
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -99,7 +99,7 @@ public:
         }
 		
         if(mp.size() == capacity) {
-	            Node* lru = dll->tail->prev;
+	        Node* lru = dll->tail->prev;
 			
             dll->deleteNode(lru);
             mp.erase(lru->key); // IMPORTANT

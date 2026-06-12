@@ -1,12 +1,13 @@
 26-03-2026  15:31
 
-Status: #Revision
+Status: #Revision-02
 
 Tags: [[Tags/DSA|DSA]] [[Dynamic Programming]]
 
 # Parsing A Boolean Expression
 
 https://leetcode.com/problems/parsing-a-boolean-expression/
+https://www.naukri.com/code360/problems/problem-name-boolean-evaluation_1214650
 
 ## Memoization
 

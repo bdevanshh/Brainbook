@@ -1,5 +1,8 @@
 {
   "cssTheme": "",
   "accentColor": "#0089c2",
-  "theme": "system"
+  "theme": "system",
+  "showViewHeader": true,
+  "showRibbon": false,
+  "nativeMenus": false
 }
