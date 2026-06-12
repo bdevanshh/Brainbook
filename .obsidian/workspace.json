@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e7b51140d5def2",
+        "id": "cb8d4c8c63bda59c",
         "type": "tabs",
         "children": [
           {
-            "id": "938b8a1ca82b5cd0",
+            "id": "bea4bda03f9b4fab",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41171d37452a09d3",
+  "active": "bea4bda03f9b4fab",
   "lastOpenFiles": [
+    "Index/LLD.md",
+    "Main Notes/Template Pattern.md",
+    "Assets/Pasted image 20260612192708.png",
+    "Main Notes/Composite Pattern.md",
+    "Assets/Pasted image 20260612183624.png",
+    "Index/DSA.md",
+    "Main Notes/Facade Pattern.md",
     "Blogs/GFS/Assets/Pasted image 20260527152945.png",
     "Blogs/GFS/Assets/Pasted image 20260527152759.png",
     "Blogs/GFS/Assets/Pasted image 20260527152641.png",
@@ -175,19 +182,13 @@
     "Blogs/GFS/Assets/Pasted image 20260527143901.png",
     "Blogs/GFS/Assets/Pasted image 20260527143440.png",
     "Blogs/GFS/Assets/Pasted image 20260527142825.png",
-    "Blogs/GFS/Assets/Pasted image 20260527140305.png",
-    "Blogs/GFS/Assets/Pasted image 20260522180430.png",
-    "Blogs/GFS/Assets/Pasted image 20260522180338.png",
     "Blogs/GFS/Google File System (GFS).md",
     "Blogs/GFS/Assets",
     "Blogs/GFS",
     "Blogs",
     "Index/Blogs.md",
-    "Index/LLD.md",
-    "Index/DSA.md",
     "Index/Books.md",
     "Main Notes/Chapter 4 - Storage and Retrieval.md",
-    "Main Notes/Facade Pattern.md",
     "Main Notes/Adapter Pattern.md",
     "Main Notes/Command Pattern.md",
     "Main Notes/Decorator Pattern.md",
@@ -204,8 +205,6 @@
     "Main Notes/KMP Algorithm.md",
     "Tags/DDIA.md",
     "Index/100 Days of ML (CampusX).md",
-    "Main Notes/Day 2 - AI vs ML vs DL.md",
-    "Main Notes/Day 4 - Batch Learning vs Online Learning.md",
     "Assets/Unconfirmed 212543.crdownload",
     "Main Notes/Untitled.base",
     "Index",

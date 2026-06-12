@@ -8,3 +8,5 @@
 [[Command Pattern]]
 [[Adapter Pattern]]
 [[Facade Pattern]]
+[[Composite Pattern]]
+[[Template Pattern]]
