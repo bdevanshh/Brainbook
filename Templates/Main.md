@@ -1,13 +1,6 @@
-{{date:DD-MM-YYYY}}  {{time}}
-
-Status:
-
-Tags:
-
+---
+created: "{{date}}-{{time}}"
+links:
+tags:
+---
 # {{title}}
-
-
-
-
-
-# References

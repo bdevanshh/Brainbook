@@ -3,5 +3,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Main Notes",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "attachmentFolderPath": "Assets",
+  "propertiesInDocument": "visible",
+  "openBehavior": ""
 }

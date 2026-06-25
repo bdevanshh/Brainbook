@@ -10,3 +10,4 @@
 [[Facade Pattern]]
 [[Composite Pattern]]
 [[Template Pattern]]
+[[Proxy Pattern]]
