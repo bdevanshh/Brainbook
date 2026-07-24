@@ -6,7 +6,7 @@
 [[Chapter 5 - Encoding and Evolution]]
 [[Chapter 6 - Replication]]
 [[Chapter 7 - Sharding]]
-
+[[Chapter 8 - Transactions]]
 
 
 # The Pragmatic Programmer ([[TPP]])

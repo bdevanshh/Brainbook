@@ -34,10 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Main Notes": "LiNotebook",
   "Tags": "LiTags",
   "Templates": "LiBookTemplate",
   "Assets": "LiImages",
   "Index": "LiGlobe",
-  "Blogs": "LiFolder"
+  "Blogs": "LiFolder",
+  "Main Notes": "LiNotebook"
 }
