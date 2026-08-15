@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44879fef70c7e779",
+        "id": "4de75ee5e6a44721",
         "type": "tabs",
         "children": [
           {
-            "id": "78dbb5e63ca42c1a",
+            "id": "0797194c7c633ae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/Top Engineering Blogs.md",
+                "file": "Index/DSA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Top Engineering Blogs"
+              "title": "DSA"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,10 +181,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78dbb5e63ca42c1a",
+  "active": "0797194c7c633ae0",
   "lastOpenFiles": [
-    "Main Notes/Untitled.md",
+    "Index/DSA.md",
+    "Main Notes/Maximum XOR With an Element From Array.md",
+    "Main Notes/Maximum XOR of Two Numbers in an Array.md",
+    "Main Notes/Count Distinct Substrings.md",
+    "Main Notes/Complete String.md",
+    "Main Notes/Implement Trie II.md",
+    "Tags/Trie.md",
+    "Main Notes/Word Ladder II.md",
+    "Main Notes/Word Ladder.md",
+    "Main Notes/Palindrome Partitioning II.md",
+    "Main Notes/Rod Cutting Problem.md",
+    "Main Notes/Subset Sum Equal to K.md",
+    "Main Notes/Coin Change II.md",
+    "Main Notes/Minimum Path Sum.md",
+    "Main Notes/Matrix Chain Multiplication.md",
+    "Main Notes/Edit Distance.md",
+    "Main Notes/0 1 Knapsack.md",
     "Blogs/Top Engineering Blogs.md",
+    "Main Notes/Untitled.md",
     "Main Notes/Longest Common Subsequence.md",
     "Main Notes/Longest Increasing Subsequence.md",
     "Main Notes/DP Introduction.md",
@@ -190,23 +209,6 @@
     "Main Notes/Prim's Algorithm.md",
     "Main Notes/Bellman Ford Algorithm.md",
     "Main Notes/Floyd Warshal Algorithm.md",
-    "Main Notes/Dijkstra's Algorithm.md",
-    "Main Notes/Kosaraju's Algorithm.md",
-    "Main Notes/Bipartite Graph.md",
-    "Main Notes/Number of Distinct Islands.md",
-    "Index/DSA.md",
-    "Main Notes/Number of Provinces.md",
-    "Main Notes/Number of Enclaves.md",
-    "Main Notes/Cycle Detection in Directed Graph (BFS).md",
-    "Main Notes/Cycle Detection in Undirected Graph.md",
-    "Main Notes/Topo Sort.md",
-    "Main Notes/Cycle Detection in Directed Graph (DFS).md",
-    "Main Notes/Course Schedule I.md",
-    "Main Notes/Introduction to Graphs.md",
-    "Main Notes/Traversal Techniques.md",
-    "Main Notes/Flood Fill.md",
-    "Main Notes/Kth Largest Element in an Array.md",
-    "Main Notes/Kth Largest Element in a Stream.md",
     "Assets/Pasted image 20260705171033.png",
     "Assets/Pasted image 20260705170226.png",
     "Assets/Pasted image 20260704175401.png",
