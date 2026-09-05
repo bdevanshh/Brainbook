@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4de75ee5e6a44721",
+        "id": "a3635028dfd9ecf1",
         "type": "tabs",
         "children": [
           {
-            "id": "0797194c7c633ae0",
+            "id": "a6d4821d47275379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/DSA.md",
+                "file": "Main Notes/Facade Pattern.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DSA"
+              "title": "Facade Pattern"
             }
           }
         ]
@@ -181,8 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0797194c7c633ae0",
+  "active": "a6d4821d47275379",
   "lastOpenFiles": [
+    "Main Notes/Colors.md",
+    "Index/Design.md",
+    "Main Notes/Day 6 - Challenges in ML.md",
+    "Index/100 Days of ML (CampusX).md",
+    "Blogs/Top Engineering Blogs.md",
     "Index/DSA.md",
     "Main Notes/Maximum XOR With an Element From Array.md",
     "Main Notes/Maximum XOR of Two Numbers in an Array.md",
@@ -200,15 +205,10 @@
     "Main Notes/Matrix Chain Multiplication.md",
     "Main Notes/Edit Distance.md",
     "Main Notes/0 1 Knapsack.md",
-    "Blogs/Top Engineering Blogs.md",
-    "Main Notes/Untitled.md",
     "Main Notes/Longest Common Subsequence.md",
     "Main Notes/Longest Increasing Subsequence.md",
     "Main Notes/DP Introduction.md",
     "Main Notes/Kruskal's Algorithm.md",
-    "Main Notes/Prim's Algorithm.md",
-    "Main Notes/Bellman Ford Algorithm.md",
-    "Main Notes/Floyd Warshal Algorithm.md",
     "Assets/Pasted image 20260705171033.png",
     "Assets/Pasted image 20260705170226.png",
     "Assets/Pasted image 20260704175401.png",
