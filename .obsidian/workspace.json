@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3635028dfd9ecf1",
+        "id": "864d5c919218bda7",
         "type": "tabs",
         "children": [
           {
-            "id": "a6d4821d47275379",
+            "id": "196e44cd01b521ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/Facade Pattern.md",
+                "file": "Index/Design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Facade Pattern"
+              "title": "Design"
             }
           }
         ]
@@ -181,10 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6d4821d47275379",
+  "active": "196e44cd01b521ec",
   "lastOpenFiles": [
-    "Main Notes/Colors.md",
+    "Main Notes/Knowledge.md",
     "Index/Design.md",
+    "Main Notes/Observer Pattern.md",
+    "Main Notes/Colors.md",
+    "Main Notes/Facade Pattern.md",
     "Main Notes/Day 6 - Challenges in ML.md",
     "Index/100 Days of ML (CampusX).md",
     "Blogs/Top Engineering Blogs.md",
@@ -206,9 +209,6 @@
     "Main Notes/Edit Distance.md",
     "Main Notes/0 1 Knapsack.md",
     "Main Notes/Longest Common Subsequence.md",
-    "Main Notes/Longest Increasing Subsequence.md",
-    "Main Notes/DP Introduction.md",
-    "Main Notes/Kruskal's Algorithm.md",
     "Assets/Pasted image 20260705171033.png",
     "Assets/Pasted image 20260705170226.png",
     "Assets/Pasted image 20260704175401.png",
